@@ -1,0 +1,3 @@
+[submodule "printlog-library"]
+	path = printlog-library
+	url = git@github.com:tnie/printlog.git
