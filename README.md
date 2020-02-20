@@ -35,6 +35,7 @@
 
 `git format-patch` 生成补丁时默认命名规则使用 commit message，但只抽取其中的英文字符，会过滤掉中文汉字。
 
+具体利用 patch 管理三方依赖的案例见：[grpc-win-xp](https://github.com/tnie/grpc-win-xp)
 
 [1]:https://github.com/tnie/printlog
 [2]:https://git-scm.com/book/zh/v2/Git-%E5%B7%A5%E5%85%B7-%E5%AD%90%E6%A8%A1%E5%9D%97
